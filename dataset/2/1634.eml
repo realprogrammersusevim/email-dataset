@@ -1,0 +1,162 @@
+Return-Path: ler@lerami.lerctr.org
+Delivery-Date: Tue Sep  3 15:33:20 2002
+Received: via dmail-2002(12) for +lists/freebsd/questions; Tue, 3 Sep 2002 15:33:20 -0500 (CDT)
+Return-Path: <owner-freebsd-questions@FreeBSD.ORG>
+Received: from mx2.freebsd.org (mx2.FreeBSD.org [216.136.204.119])
+	by lerami.lerctr.org (8.12.2/8.12.2/20020524/$Revision: 1.30 $) with ESMTP id g83KXDuK019666
+	for <ler@lerctr.org>; Tue, 3 Sep 2002 15:33:13 -0500 (CDT)
+Received: from hub.freebsd.org (hub.FreeBSD.org [216.136.204.18])
+	by mx2.freebsd.org (Postfix) with ESMTP
+	id B53F85579A; Tue,  3 Sep 2002 13:33:05 -0700 (PDT)
+	(envelope-from owner-freebsd-questions@FreeBSD.ORG)
+Received: by hub.freebsd.org (Postfix, from userid 538)
+	id 187EC37B405; Tue,  3 Sep 2002 13:33:04 -0700 (PDT)
+Received: from localhost (localhost [127.0.0.1])
+	by hub.freebsd.org (Postfix) with SMTP
+	id C1B272E801F; Tue,  3 Sep 2002 13:33:03 -0700 (PDT)
+Received: by hub.freebsd.org (bulk_mailer v1.12); Tue, 3 Sep 2002 13:33:03 -0700
+Delivered-To: freebsd-questions@freebsd.org
+Received: from mx1.FreeBSD.org (mx1.FreeBSD.org [216.136.204.125])
+	by hub.freebsd.org (Postfix) with ESMTP id 2D2F937B400
+	for <freebsd-questions@freebsd.org>; Tue,  3 Sep 2002 13:32:55 -0700 (PDT)
+Received: from domainoo.fr (web2.domainoo.net [62.4.78.161])
+	by mx1.FreeBSD.org (Postfix) with SMTP id F2B5843E6A
+	for <freebsd-questions@freebsd.org>; Tue,  3 Sep 2002 13:32:53 -0700 (PDT)
+	(envelope-from info@coachinvest.com)
+Received: (qmail 30168 invoked by uid 33); 3 Sep 2002 19:48:55 -0000
+Date: 3 Sep 2002 19:48:55 -0000
+Message-ID: <20020903194855.30167.qmail@domainoo.fr>
+To: freebsd-questions@FreeBSD.ORG
+Subject: Newsletter Coach'Invest - Septembre 2002
+From: info@coachinvest.com
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset=iso-8859-1
+Sender: owner-freebsd-questions@FreeBSD.ORG
+List-ID: <freebsd-questions.FreeBSD.ORG>
+List-Archive: <http://docs.freebsd.org/mail/> (Web Archive)
+List-Help: <mailto:majordomo@FreeBSD.ORG?subject=help> (List Instructions)
+List-Subscribe: <mailto:majordomo@FreeBSD.ORG?subject=subscribe%20freebsd-questions>
+List-Unsubscribe: <mailto:majordomo@FreeBSD.ORG?subject=unsubscribe%20freebsd-questions>
+X-Loop: FreeBSD.ORG
+Precedence: bulk
+X-Virus-Scanned: by amavisd-milter (http://amavis.org/)
+X-Status: 
+X-Keywords: 
+
+NEWSLETTER COACHINVEST  SEPTEMBRE 2002
+
+CoachInvest, laccompagnateur des jeunes entreprises
+www.coachinvest.com ou 3615 COACHINVEST (0.34 Euros/min)
+
+
+
+DES NOUVELLES DE COACHINVEST.
+
+1- Lancement russi pour Coach'Invest Interactive qui dcroche ses premiers contrats.
+
+Coach'Invest Interactive accompagne les entreprises dans la cration, le dveloppement, l'optimisation et la gestion au quotidien de leur site Internet.
+Coach'Invest Interactive propose  ses clients de nombreux services afin de les aider  concevoir et  mettre en place leur stratgie Internet.
+Contact : Hugo BEAULIEU ; Tl : 01 56 77 01 20 / 06 81 57 85 47; E-mail : webmaster@coachinvest.com 
+Pour en savoir plus : http://www.coachinvest.com/entrepreneur/coach_interactive.html 
+
+
+
+2- Coach'Invest a investi dans deux nouvelles entreprises :
+
+Inqual :
+INQUAL est une socit cre en janvier 2001 par 3 ingnieurs issus de lENST et 1 cadre commercial expriment. Lquipe est aujourdhui compose de 12 personnes. Inqual est soutenu par lANVAR et a t rcompens pour ses contributions  linnovation par divers prix nationaux, dont le premier prix du concours Allgre.  Experte dans les architectures Internet, lquipe dInqual  matrise les conceptualisations de haut niveau (UML) et les serveurs dapplications, notamment ZOPE. INQUAL construit une offre au service des collectivits locales en proposant le premier  SIIC  (Systme dInformation Inter-Communal ). Ce systme apporte une gamme complte doutils permettant lutilisation professionnelle de fonctionnalits Internet, Intranet et Extranet, sans connaissances informatiques. La premire brique mtier de ce  SIIC  est un outil dautomatisation de publication pluri-mdia du Bulletin dInformations Municipales (BIM). Le logiciel LEBIM permet dditer et de modifier, 
+ en ligne et en temps rel linformation pratique de la collectivit locale. Des outils intgrs permettent de gnrer automatiquement le site Internet dynamique de la commune. Le site ainsi dvelopp est mis  jour automatiquement et modifiable sans connaissances informatiques, par la commune elle-mme.                     Contact : Joseph OULHEN ; Tl : 02 98 02 03 61 ; E-mail : joseph.oulhen@inqual.com 
+Pour en savoir plus : http://www.coachinvest.com/startup/startup33.html
+
+Sir Assurances :
+Cre en 1994, la socit Sir Assurances est le premier courtier dassurances spcialis sur le march des entreprises nouvelles. Sir Assurances a dvelopp le portail www.newbizassur.com pour proposer aux entreprises nouvelles une large gamme de services et de produits dassurance rpondant  lensemble de leurs besoins. La socit commercialise sa plateforme technologique en marque blanche et/ou en co-branding auprs des principaux acteurs de lInternet en France et en Europe.
+Contact : Jean-Eudes LEBAUPIN ; Tl : 01 40 20 47 24 ; E-mail : jel@newbizassur.com   
+Pour en savoir plus :  http://www.coachinvest.com/startup/startup34.html
+
+
+3 - CoachInvest soutient activement deux vnements majeurs en faveur du dveloppement de lentrepreneuriat en France :
+Le lancement de lannuaire des investisseurs rgionaux
+Les journes Plug and Start (un vnement de la Technopole de lAube en Champagne).
+
+
+ Annuaire des Investisseurs Rgionaux 2002 : 
+Pour rpondre aux besoins de financement des entreprises, lAnnuaire des Investisseurs Rgionaux recense les diffrents acteurs du financement et de laccompagnement des entreprises dans chaque rgion.
+Vous tes chef dentreprise ou dcid  exercer votre talent dentrepreneur, avec lAnnuaire des Investisseurs Rgionaux, vous identifierez rapidement les solutions de financement diversifies et adaptes aux besoins de votre entreprise. Cet annuaire est un outil de travail unique et indispensable pour lentrepreneur.
+Pour en savoir plus ou pour commander lAnnuaire des Investisseurs Rgionaux, contactez Virginie GOUPY par tlphone au 03 20 27 18 84 ou par mail : epr@vigiecom.net 
+
+ Journes Plug and Start (8, 9 et 10 octobre 2002) : 
+La Technopole de lAube en Champagne (Troyes) innove avec le lancement les 8, 9 et 10 octobre prochains des Journes Plug and Start destines aux futurs crateurs dentreprises innovantes  caractre technologique ou scientifique. Avant mme son arrive  Troyes, chaque crateur bnficie dune premire analyse de son projet en toute confidentialit. Il a le droit  un tuteur (dirigeant dentreprise) pour laccompagner tout au long de son parcours. Un parrain est slectionn pour lui parmi les 150 experts constituants le cercle privilgi de la Technopole de lAube. Conseils personnaliss, alternance de travaux individuels et dateliers collectifs, expriences des intervenants, mise  disposition dun espace de travail quip, disponibilit de toute une quipe, mais aussi convivialit de la Technopole et plaisirs de la ville de Troyes  Plug and Start sest donn les moyens de russir et de faire russir les crateurs. A lissu des journes Plug and Start, les porteurs de pro
+ jets pourront tre mis en contact avec le rseau de capital risque de la Technopole de lAube. Par ailleurs, ils pourront galement participer  un forum des capitaux o ils rencontreront de nombreux investisseurs.
+Pour en savoir plus et vous inscrire, contactez Michal NOBLOT au 03 25 83 10 10 ou par e-mail : m.noblot@technopole-aube.fr 
+
+  
+
+DES NOUVELLES DE NOS PARTICIPATIONS.
+
+Caf & Co : 
+Caf & Co propose aux futurs gestionnaires indpendants de parcs de distributeurs automatiques de boissons l'ensemble des services tels que : solutions de financement, emplacements, formation et accompagnement, gestion, ... pour favoriser leur russite d'entrepreneur individuel. 
+Vous pouvez galement participer au dveloppement de Caf & Co en bnficiant de l'installation gratuite d'un distributeur automatique de boissons chaudes dans vos locaux. 
+Contact : Nicolas BOUGON ; Tl : 06 60 41 35 14 ; E-mail : nbougon@noos.fr 
+
+Carlogo :
+La socit Carlogo propose aux annonceurs de nouvelles solutions d'affichage mobile  l'efficacit prouve (tude Ipsos) dont CARLOGO PUBLICITE qui permet aux automobilistes de gagner de l'argent (en louant un espace publicitaire sur leur voiture, les conducteurs sont rmunrs chaque mois).
+Aprs une campagne nationale pour le Crdit Foncier et des oprations pendant l't pour le Club Med, Galderma ou Aujourd'hui en France sur le Tour de France, de nouvelles campagnes auront lieu ds la rentre.
+Contact : Olivier MASCHINO ; Tl : 01 46 42 43 02 ; E-mail : olivier.maschino@carlogo.com 
+Pour en savoir plus : http://www.coachinvest.com/startup/startup20.html 
+
+France Actionnaire :
+Linformation sur les PME PMI cotes en bourse (entre 1 million et 1 milliard dEuros de capitalisation boursire) vous intresse ? Vous voulez connatre vos concurrents cots, leur valorisation, dcouvrir un secteur dactivit ?
+Sur www.france-actionnaire.com vous trouverez des analyses financires, des profils complets sur lactivit des socits et leurs concurrents, des ratios, des outils de comparaison.  Un outil rvolutionnaire dj utilis par un grand nombre dentreprises, danalystes financiers, de grants, et dinvestisseurs pour enfin avoir de linformation de qualit sur toutes les valeurs moyennes. 
+Nous vous proposons 2 offres et 2 modes daccs : 
+-	offre expert : paiement  la minute de consommation ou abonnement 
+-	offre premium : abonnement uniquement 
+
+Abonns  la newsletter de CoachInvest, profitez dune rduction de 30% sur les abonnements dune dure de 6 mois ou plus en donnant le mot de passe : CoachInvest.
+Contact : Sbastien FAIJEAN ; Tl : 01 48 01 87 27; E-mail :  contact@france-actionnaire.com   
+Pour en savoir plus : http://www.coachinvest.com/startup/startup08.html 
+
+Labelium :
+Labelium , 1er cabinet d'audit de sites Internet en France , vous propose de faire un devis gratuit d'intervention  pour votre site Internet. Le mtier de Labelium est de constater via un audit les forces et les faiblesses des sites et de recueillir via une grille dvaluation et selon 400 critres les lments damlioration possibles. Puis, nous catalysons lensemble des points damlioration identifis et rdigeons des recommandations stratgiques permettant au site daccrotre la qualit de  ses prestations.  A la suite de laudit et des recommandations , nous vous proposons des missions de soutien rcurrentes garantissant  votre site un niveau de performance optimal dans le temps. 
+ Contact : Thierry HERRMANN ; Tl : 06 08 77 77 13; E-mail : info@labelium.com
+Pour en savoir plus : http://www.coachinvest.com/startup/startup28.html 
+
+Le Manoir du Grand Vignoble : 
+Le Manoir du Grand Vignoble, demeure du XVIIme sicle situ  40 kilomtres de Bergerac offre 10% de rduction sur les chambres (hors juillet-aot) aux lecteurs de la newsletter de CoachInvest. Les 44 chambres et suites sont spacieuses et souvrent sur les forts avoisinantes. Au restaurant ou sous les tonnelles de la terrasse, la cuisine propose est  limage de celle quvoque le mot Prigord, elle est gnreuse et gourmande, axe sur les produits du terroir sans ngliger pour cela linnovation.
+Contact : Denis PETE ; Tl : 05 53 24 23 18 ; E-mail : GRAND.VIGNOBLE@wanadoo.fr 
+Pour en savoir plus : http://www.coachinvest.com/startup/startup25.html   
+
+Netagis :
+NETAGIS vient de conclure un nouveau contrat en Gestion de Patrimoine avec les Mutuelles de Loire-Atlantique. La socit va grer les plans des diffrents btiments de la Mutuelle sur sa plateforme ActiGIS en version Patrimoine. Le contrat porte sur une dizaine de btiments reprsentant plusieurs milliers de mtre-carrs.
+Paralllement, NETAGIS annonce la sortie de ActiGIS Industrie en septembre destin  la gestion des plans de sites industriels pour apporter une relle assistance  la prise de dcision et  la matrise des risques industriels et environnementaux.
+Le programme de dveloppement R&D de NETAGIS bnficie depuis le mois de juillet de l' appui de l'ANVAR.
+Contact : Patrick JULIEN ; Tl : 02 51 11 12 14  ; E-mail : patrick.julien@netagis.com  
+Pour en savoir plus : http://www.coachinvest.com/startup/startup21.html 
+
+
+
+QUE VOUS SOYEZ 
+-	ENTREPRENEUR (PORTEUR DE PROJET, DIRIGEANT DE START-UP, PATRON DE PME),
+-	PARTENAIRE POTENTIEL DE COACHINVEST (PRESTATAIRE LOCAL, ENTREPRISE NATIONALE, INSTITUTIONNEL, ASSOCIATION)
+NHESITEZ PAS A NOUS CONTACTER SI VOUS AVEZ ENVIE QUE LON TRAVAILLE ENSEMBLE.
+
+
+Si vous souhaitez en savoir plus sur CoachInvest, vous pouvez nous retrouver sur www.coachinvest.com 
+
+Retrouvez sur le minitel, code 3615 COACHINVEST (0.34 Euros/min), tous les documents juridiques dont vous avez besoin dans le cadre de votre entreprise. 
+
+
+Thomas Legrain
+PDG CoachInvest
+info@coachinvest.com
+
+
+------------------------------------------------------------------------------
+
+
+Pour vous dsinscrire, rendez-vous  l'adresse suivante :
+http://www.coachinvest.com/Newsletter_commune/ml.php?type=desinscription&addr=freebsd-questions@freebsd.org&hash=d19867356ee809b9ece4a07f3d70ebd5
+
+
+To Unsubscribe: send mail to majordomo@FreeBSD.org
+with "unsubscribe freebsd-questions" in the body of the message
+
